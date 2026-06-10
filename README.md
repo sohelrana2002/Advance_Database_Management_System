@@ -58,4 +58,4 @@ This project is open source and available under the MIT License.
 ## 👤 Author
 Sohel Rana
 
-GitHub: [github](github.com/sohelrana200)
+[Github](https://github.com/sohelrana2002)
