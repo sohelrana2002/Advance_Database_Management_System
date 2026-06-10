@@ -1,0 +1,61 @@
+# Advanced Database Management System (ADMS)
+
+## 📖 Overview
+
+This repository contains the complete project work for the **Advanced Database Management System (ADMS)** course. It demonstrates practical implementation of advanced database concepts using **Microsoft SQL Server**. The project includes SQL scripts, database design schemas, and complex queries designed for learning, reference, and hands-on practice.
+
+## 🎯 Key Features
+
+- **Modular Structure**: Organized by assignments, experiments, and lab manuals.
+- **Advanced SQL Constructs**: Includes functions, stored procedures, views, and multi-table operations.
+- **Practical Scenarios**: Real-world inspired database designs and queries.
+- **Educational Focus**: Ideal for students and professionals looking to deepen their T-SQL skills.
+
+## 📂 Repository Structure
+
+The repository is organized into the following logical modules:
+
+| Directory | Description |
+|-----------|-------------|
+| `ASSIGNMENT_1` to `ASSIGNMENT_3` | Graded assignments covering core ADMS topics. |
+| `EXPERIMENT_03` to `EXPERIMENT_05` | Hands-on experiments with progressive complexity. |
+| `EXPERIMENT_FUNCTION` | User-defined functions and scalar/table-valued examples. |
+| `EXPERIMENT_STORE_PROCEDURE` | Stored procedures for reusable business logic. |
+| `EXPERIMENT_VIEW` | Creation and management of database views. |
+| `Lab Manual` | Official lab guidelines and problem statements. |
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- **Microsoft SQL Server** (2016 or later recommended)
+- **SQL Server Management Studio (SSMS)** or Azure Data Studio
+- Basic knowledge of relational database concepts
+
+### Installation & Usage
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/sohelrana2002/Advance_Database_Management_System.git
+   ```
+2. Execute scripts in order
+Start with the Lab Manual directory to understand each experiment's objective, then run the corresponding .sql files in SSMS.
+
+3. Explore assignments
+Review ASSIGNMENT_1, ASSIGNMENT_2, and ASSIGNMENT_3 for comprehensive problem sets.
+
+## 📊 Technologies Used
+- Database Engine: Microsoft SQL Server
+- Language: Transact-SQL (T-SQL) – 100%
+- Version Control: Git & GitHub
+
+## 🤝 Contributing
+Contributions to improve scripts, add comments, or extend examples are welcome. Please follow these steps:
+
+## 📝 License
+This project is open source and available under the MIT License.
+
+## 👤 Author
+Sohel Rana
+
+GitHub: [github](github.com/sohelrana200)
