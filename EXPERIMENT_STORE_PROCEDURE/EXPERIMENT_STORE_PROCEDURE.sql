@@ -166,7 +166,7 @@ DROP PROC SPdetailsInfo
 
 --execute the proc with output parameter
 DECLARE @TotalCount INT
-EXEC SPdetailsInfo 'Rajshahi', @TotalCount OUTPUT
+EXEC SPdetailsInfo 'Dhaka', @TotalCount OUTPUT
 
 PRINT 'Number of customer in Rajshahi zone: ' + CAST(@TotalCount AS VARCHAR(30));
 
